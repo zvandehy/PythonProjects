@@ -1,0 +1,2 @@
+Hi I am a string in a file 
+This is a second line of text 
